@@ -3,14 +3,14 @@
 <img align = "right" width="400px" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="coding">
 
 
-- 📫 How to reach me **raghwan2006@gmail.com**
+- 📫 How to reach me **prateekpro0803@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/amit-thakur-in14356/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/indrasen05" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100053615531325&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/indrasen.indrasen.982292" height="30" width="40" /></a>
-<a href="https://www.instagram.com/__raghwan__?igsh=bzQ3eXF2c3IxN2wz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/indrasen_05" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prateek-patel-27p34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prateek-patel-27p34/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100069390424424&mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100069390424424" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__.x._p_r_a_t_e_e_k_.__/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/__.x._p_r_a_t_e_e_k_.__/?hl=en" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
