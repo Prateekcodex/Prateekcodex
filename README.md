@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekcodex&label=Profile%20views&color=0e75b6&style=flat" alt="prateekcodex" /> </p>
 
-- 🌱 I’m currently learning **Shadcn/Ui, Next.js, Node.js, Cloud & CI/CD**
+- 🌱 I’m currently learning **Cloud, CI/CD, Data Structure and Algorithms and some more development technologies**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Next.js**
+- 💬 Ask me about **React, JavaScript, Node.js**
 
 - 📫 How to reach me **prateekpro0803@gmail.com**
 
-- ⚡ Fun fact **I can spend hours making a button look simple, only to realize that “simple” on the screen usually means a lot of debugging behind the scenes.**
+- ⚡ Fun fact **I write better code at 2 AM than I do at 10 AM and i can spend hours making a button look simple, only to realize that “simple” on the screen usually means a lot of debugging behind the scenes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
