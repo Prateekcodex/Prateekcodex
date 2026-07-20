@@ -21,28 +21,42 @@
 
 # 🛠️ Tech Stack
 
-<h3 align="center"> Languages</h3>
+## 💻 Languages
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts&perline=5" height="55"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,ts&perline=8" height="55" />
 </p>
 
-<h3 align="center"> Frontend & Frameworks</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&perline=6" height="55"/>
+## 🎨 Frontend & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&perline=8" height="55" />
 </p>
 
-<h3 align="center"> Backend & Databases</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" height="55"/>
+## ⚙️ Backend & Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8" height="55" />
 </p>
 
-<h3 align="center"> Cloud & Dev Tools</h3>
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux&perline=5" height="55"/>
+## ☁️ Cloud & Dev Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux&perline=8" height="55" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=githubactions,cloudflare&perline=8" height="55" />
 </p>
 
 ---
