@@ -29,3 +29,18 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prateekcodex/Prateekcodex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prateekcodex&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=github" />
+</p>
+
+<p align="center">
+<i>"Building scalable software, one commit at a time."</i>
+</p>
+
+<p align="center">
+⭐ Java • Full Stack • React • Next.js • Node.js • DSA • Open to SDE-1 Opportunities
+</p>
