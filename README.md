@@ -159,5 +159,5 @@
 </p>
 
 <p align="center">
-⭐ Java • Full Stack • React • Next.js • Node.js • DSA • Open to SDE-1 Opportunities
+  <i>"Always learning. Always building. Always improving."</i>
 </p>
