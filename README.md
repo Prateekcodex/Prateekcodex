@@ -21,42 +21,28 @@
 
 # 🛠️ Tech Stack
 
-## 💻 Languages
+Languages
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,c,python,js,ts&perline=8" height="55" />
 </p>
 
----
-
-## 🎨 Frontend & Frameworks
+Frontend & Frameworks
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind&perline=8" height="55" />
 </p>
 
----
-
-## ⚙️ Backend & Databases
+Backend & Databases
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=8" height="55" />
 </p>
 
----
-
-## ☁️ Cloud & Dev Tools
+Cloud & Dev Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,postman,linux&perline=8" height="55" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=githubactions,cloudflare&perline=8" height="55" />
 </p>
 
 ---
