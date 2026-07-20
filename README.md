@@ -59,6 +59,10 @@ Cloud & Dev Tools
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
 </p>
 
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=tokyonight" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
