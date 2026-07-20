@@ -49,12 +49,9 @@ Cloud & Dev Tools
 
 ## 📊 GitHub Statistics
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prateekcodex&theme=tokyonight&hide_border=true" />
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=github_dark&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=github-dark&hide_border=true" />
 </p>
 
 
