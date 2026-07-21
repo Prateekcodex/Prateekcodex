@@ -49,14 +49,16 @@ Cloud & Dev Tools
 
 ## 📊 Github Statistics
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <a href="https://github.com/Prateekcodex">
-    <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Prateekcodex">
-    <img height="175" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img height="175" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 
 <p align="center">
