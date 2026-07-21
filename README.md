@@ -47,15 +47,14 @@ Cloud & Dev Tools
 
 ---
 
-## 📊 GitHub Overview
+## 📊 Coding Activity
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=github_dark" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekcodex&theme=github_dark" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekcodex&theme=github_dark" />
+  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Prateekcodex&theme=tokyonight&no-frame=true&row=2&column=3" />
 </p>
 
 
