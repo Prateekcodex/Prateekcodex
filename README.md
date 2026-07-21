@@ -12,9 +12,21 @@
 - ⚡ Fun fact **I write better code at 2 AM than I do at 10 AM and i can spend hours making a button look simple, only to realize that “simple” on the screen usually means a lot of debugging behind the scenes.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/prateek-patel-27p34/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prateek-patel-27p34/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/prateekcodex" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateekcodex" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/prateek098/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Patel LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://x.com/Prateekpro098" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prateekpro098 X" height="30" width="40" />
+</a>
+
+<a href="https://leetcode.com/u/prateekcodex/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateekcodex" height="30" width="40" />
+</a>
+
 </p>
 
 ---
