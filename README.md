@@ -47,12 +47,15 @@ Cloud & Dev Tools
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=github_dark" />
+</p>
 
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekcodex&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prateekcodex&theme=github_dark" />
 </p>
 
 
