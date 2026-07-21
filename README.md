@@ -47,11 +47,12 @@ Cloud & Dev Tools
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 
