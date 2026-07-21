@@ -72,18 +72,6 @@ Cloud, Auth & Security
 
 ## 📊 Github Statistics
 
-<table border="0" align="center">
-  <tr>
-    <td>
-      <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img height="175" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
 </p>
