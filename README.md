@@ -112,5 +112,5 @@ Cloud, Auth & Security
 </p>
 
 <p align="center">
-  <i>"Always learning. Always building. Always improving."</i>
+  <i>⭐"Always learning. Always building. Always improving."⭐</i>
 </p>
