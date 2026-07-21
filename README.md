@@ -73,6 +73,11 @@ Cloud, Auth & Security
 ## 📊 Github Statistics
 
 <p align="center">
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
 </p>
 
