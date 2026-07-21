@@ -47,14 +47,11 @@ Cloud & Dev Tools
 
 ---
 
-## 📊 Coding Activity
+## 📊 Github Statistics
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=Prateekcodex&theme=tokyonight&no-frame=true&row=2&column=3" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true" />
 </p>
 
 
