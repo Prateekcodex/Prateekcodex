@@ -50,9 +50,9 @@ Cloud & Dev Tools
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 
