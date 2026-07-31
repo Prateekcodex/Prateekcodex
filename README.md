@@ -24,7 +24,11 @@
 </a>
 
 <a href="https://leetcode.com/u/prateekcodex/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prateekcodex" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prateekcodex LeetCode" height="30" width="40" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/prateekpro0803" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prateekpro0803 HackerRank" height="30" width="40" />
 </a>
 
 </p>
