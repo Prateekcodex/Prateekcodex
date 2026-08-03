@@ -99,7 +99,9 @@ Cloud, Auth & Security
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night&hide_border=true" />
 </p>
 
-![Prateek's Profile Details](https://raw.githubusercontent.com/Prateekcodex/Prateekcodex/github-profile-summary-cards/profile-summary-card-output/synthwave/0-profile-details.svg)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
