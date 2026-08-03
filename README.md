@@ -100,6 +100,7 @@ Cloud, Auth & Security
 </p>
 
 ![Prateek's Profile Details](https://raw.githubusercontent.com/Prateekcodex/Prateekcodex/github-profile-summary-cards/profile-summary-card-output/synthwave/0-profile-details.svg)
+
 ---
 
 ## 🐍 Contribution Snake
