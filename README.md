@@ -15,24 +15,38 @@
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/prateek098/" target="_blank" style="margin-right: 15px;">
+<a href="https://www.linkedin.com/in/prateek098/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prateek Patel LinkedIn" height="30" width="40" />
 </a>
 
-<a href="https://x.com/Prateekpro098" target="_blank" style="margin-right: 15px;">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://x.com/Prateekpro098" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prateekpro098 X" height="30" width="40" />
 </a>
 
-<a href="https://leetcode.com/u/prateekcodex/" target="_blank" style="margin-right: 15px;">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/prateekcodex/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prateekcodex LeetCode" height="30" width="40" />
 </a>
 
-<a href="https://www.hackerrank.com/profile/prateekpro0803" target="_blank" style="margin-right: 15px;">
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.hackerrank.com/profile/prateekpro0803" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prateekpro0803 HackerRank" height="30" width="40" />
 </a>
 
+&nbsp;&nbsp;&nbsp;
+
 <a href="https://t.me/prateekpro098" target="_blank">
   <img align="center" src="https://cdn.simpleicons.org/telegram" alt="Telegram" height="30" width="40" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="mailto:prateekpro0803@gmail.com">
+  <img align="center" src="https://cdn.simpleicons.org/gmail" alt="Gmail" height="30" width="40" />
 </a>
 
 </p>
