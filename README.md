@@ -95,13 +95,13 @@ Cloud, Auth & Security
   <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Top Graph: 31-Day Contribution Graph -->
+<!-- 1. Contribution Activity Graph (Top Graph) -->
 [![Prateek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=synthwave&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
-<!-- Bottom Card: Yearly Activity Summary Card -->
-[![Prateek's Yearly Activity Card](https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=synthwave&type=compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- 2. Stats Summary Card (Bottom Card - Working Alternative) -->
+[![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&bg_color=0d1117&title_color=36a3f7&text_color=25d0c7&icon_color=25d0c7&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
