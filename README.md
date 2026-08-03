@@ -95,14 +95,13 @@ Cloud, Auth & Security
   <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- 1. Contribution Activity Graph (Top Graph) -->
-[![Prateek's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=synthwave&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br/>
-
-<!-- 2. Stats Summary Card (Bottom Card - Working Alternative) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
