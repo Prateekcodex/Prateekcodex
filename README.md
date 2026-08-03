@@ -23,12 +23,24 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Prateekpro098 X" height="30" width="40" />
 </a>
 
+<a href="https://t.me/prateekpro098" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" alt="Prateekpro098 Telegram" height="30" width="40" />
+</a>
+
+</p>
+
+---
+
+<h3 align="left">Coding Profiles</h3>
+
+<p align="left">
+
 <a href="https://leetcode.com/u/prateekcodex/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Prateekcodex LeetCode" height="30" width="40" />
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
 </a>
 
 <a href="https://www.hackerrank.com/profile/prateekpro0803" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Prateekpro0803 HackerRank" height="30" width="40" />
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
 </a>
 
 </p>
