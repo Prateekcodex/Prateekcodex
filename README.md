@@ -74,22 +74,6 @@ Cloud, Auth & Security
 
 ---
 
-<h3 align="left">Coding Profiles</h3>
-
-<p align="left">
-
-<a href="https://leetcode.com/u/prateekcodex/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/prateekpro0803" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-</p>
-
----
-
 ## 📊 Github Statistics
 
 <p align="center">
