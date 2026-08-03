@@ -101,7 +101,9 @@ Cloud, Auth & Security
 <br/>
 
 <!-- 2. Stats Summary Card (Bottom Card - Working Alternative) -->
-[![Prateek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&bg_color=0d1117&title_color=36a3f7&text_color=25d0c7&icon_color=25d0c7&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=github_dark" />
+</p>
 
 ---
 
