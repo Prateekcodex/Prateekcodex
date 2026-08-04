@@ -92,13 +92,12 @@ Cloud, Auth & Security
 
 <p align="center">
   <img
+    width="46%"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true"
-    width="49%"
   />
-
   <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true"
-    width="49%"
+    width="46%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
   />
 </p>
 
