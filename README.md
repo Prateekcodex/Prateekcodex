@@ -112,7 +112,6 @@ Cloud, Auth & Security
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Prateekcodex/Prateekcodex/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 ---
