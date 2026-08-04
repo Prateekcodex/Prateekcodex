@@ -88,10 +88,11 @@ Cloud, Auth & Security
 
 ---
 
-## 📊 Github Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prateekcodex&theme=tokyonight" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prateekcodex&theme=tokyonight" />
 </p>
 
 <p align="center">
