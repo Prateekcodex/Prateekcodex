@@ -91,7 +91,7 @@ Cloud, Auth & Security
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Prateekcodex&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true"
     width="50%"
   />
 </p>
