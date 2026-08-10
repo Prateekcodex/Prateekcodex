@@ -91,16 +91,8 @@ Cloud, Auth & Security
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img
-    width="46%"
-    src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-  <img
-    width="37%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-  />
-</p>
+[![Prateek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prateekcodex&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night" />
