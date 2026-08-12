@@ -90,10 +90,7 @@ Cloud, Auth & Security
 ---
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=Prateekcodex&theme=tokyonight&hide_border=true&cache_bust=true"
-    width="50%"
-  />
+  <img src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true&cache_bust=1" alt="Prateek's Streak Stats" width="50%" />
 </p>
 
 ---
