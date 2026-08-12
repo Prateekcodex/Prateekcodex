@@ -113,6 +113,15 @@ Cloud, Auth & Security
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prateekcodex&theme=tokyonight" width="80%" />
 </p>
+
+---
+
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy-gamma.vercel.app/?username=Saket22-CS&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
