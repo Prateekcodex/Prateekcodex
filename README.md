@@ -89,9 +89,7 @@ Cloud, Auth & Security
 
 ---
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true&cache_bust=1" alt="Prateek's Streak Stats" width="50%" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Prateekcodex&theme=tokyonight&hide_border=true&cache_bust=1)](https://git.io/streak-stats)
 
 ---
 
