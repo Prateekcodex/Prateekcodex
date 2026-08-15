@@ -20,6 +20,8 @@
 
 - ⚡ Fun fact **I write better code at 2 AM than I do at 10 AM and i can spend hours making a button look simple, only to realize that “simple” on the screen usually means a lot of debugging behind the scenes.**
 
+---
+
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
