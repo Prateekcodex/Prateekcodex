@@ -1,4 +1,13 @@
-<h1 align="center">Hi 👋, I'm Prateek Patel</h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Instrument+Serif&weight=700&size=58&pause=99999&color=6EE7F7&center=true&vCenter=true&width=700&height=80&lines=Prateek+Patel" alt="Prateek Patel" />
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=99999&color=A78BFA&center=true&vCenter=true&width=600&height=28&lines=Software+Engineer+%E2%80%A2+Full+Stack" alt="roles" />
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <h3 align="center">Building scalable web applications, solving coding challenges, and learning something new every day. Focused on Full Stack Development with Java, React, Next.js, and backend technologies while strengthening DSA and core computer science concepts including OOP, DBMS, OS, and COA. Exploring Generative AI and LLMs to create smarter developer experiences. Aspiring SDE-1.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekcodex&label=Profile%20views&color=0e75b6&style=flat" alt="prateekcodex" /> </p>
