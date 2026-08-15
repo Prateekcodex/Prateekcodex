@@ -8,6 +8,8 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
+</div>
+
 <h3 align="center">Building scalable web applications, solving coding challenges, and learning something new every day. Focused on Full Stack Development with Java, React, Next.js, and backend technologies while strengthening DSA and core computer science concepts including OOP, DBMS, OS, and COA. Exploring Generative AI and LLMs to create smarter developer experiences. Aspiring SDE-1.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateekcodex&label=Profile%20views&color=0e75b6&style=flat" alt="prateekcodex" /> </p>
