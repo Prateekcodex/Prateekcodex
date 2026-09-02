@@ -122,11 +122,11 @@ Tools
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <a href="https://github.com/Prateekcodex">
-   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Prateekcodex&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Prateekcodex_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Prateekcodex&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Prateekcodex&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saket22-CS&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0a0a0f&title_color=6EE7F7&icon_color=A78BFA&text_color=e8e8f0" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saket22-CS&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0a0a0f&title_color=6EE7F7&text_color=e8e8f0" height="170"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prateekcodex&theme=tokyo-night" />
