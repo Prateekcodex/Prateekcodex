@@ -124,11 +124,8 @@ Tools
 
 <div align="center">
   <a href="https://github.com/Prateekcodex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prateekcodex&show_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/Prateekcodex">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Prateekcodex&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
-  </a>
+   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Prateekcodex&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=Prateekcodex_icons=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Prateekcodex&layout=compact&langs_count=6&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=Prateekcodex&layout=compact&langs_count=6&theme=radical" alt="Top Languages" />
 </div>
 
 <p align="center">
